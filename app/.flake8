@@ -4,3 +4,8 @@ exclude =
     --pycache__,
     manage.py,
     settings.py
+
+
+
+
+    
