@@ -26,3 +26,5 @@ class ModelTests(TestCase):
                                                          'darshan31')
         self.assertTrue(user.is_staff)
         self.assertTrue((user.is_superuser))
+
+    
